@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>1.5-SNAPSHOT</version>
 	
-	<name>Maven Web Application</name>
+	<name>Bookzy</name>
 	
 	<description>Bookzy Web Application</description>
 
