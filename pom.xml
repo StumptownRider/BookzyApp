@@ -3,13 +3,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>bookzyWebApp</artifactId>
 	<packaging>war</packaging>
 	<version>1.5-SNAPSHOT</version>
 	
 	<name>Maven Web Application</name>
 	
-	<description>Maven Web Project</description>
+	<description>Bookzy Web Application</description>
 
 
 	<properties>
@@ -83,7 +83,7 @@
 	
 	
 	<build>
-		<finalName>maven-web-application</finalName>
+		<finalName>bookzyWebApp</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
