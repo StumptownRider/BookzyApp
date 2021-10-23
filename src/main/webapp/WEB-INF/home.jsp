@@ -7,13 +7,14 @@
 <head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Welcome!</title>
+<title>Welcome to BookMyShow!</title>
 
 </head>
 </head>
 <body>
- <h1 align="center">Bad Guys Anon</h1>
-<h1 align="center">Congrats - your app deployed succesfully!</h1>
+ <h1 align="center">Use BookMyShow For All Your Entertainment Needs!</h1>
+ <br />
+<h1 align="center">Release successfully deployed</h1>
 <h2 align="center">This is cool huh?!</h2>
 </body>
 </html>
