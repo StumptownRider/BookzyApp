@@ -15,6 +15,6 @@
  <h1 align="center">Use BookMyShow For All Your Entertainment Needs!</h1>
  <br />
 <h1 align="center">Release successfully deployed</h1>
-<h2 align="center">Did the build trigger?/h2>
+<h2 align="center">Some arbitrary change/h2>
 </body>
 </html>
